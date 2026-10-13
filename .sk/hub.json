@@ -1,0 +1,31 @@
+{
+  "titulo": "deploy-6aceba7d5af7e3219c028c85 (1)",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "auditoria.html",
+      "nome": "Auditoria Master - Dr. MAIKON DA ROCHA CALDEIRA",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "comparador.html",
+      "nome": "Comparador Jurídico — TJMG + BCB",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "Assistente Jurídico",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
